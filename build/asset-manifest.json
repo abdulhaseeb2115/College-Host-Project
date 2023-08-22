@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.93c0d0de.css",
+    "main.js": "/static/js/main.cab71237.js",
+    "static/media/mapThree.jpeg": "/static/media/mapThree.1241ffd6fde1daf40641.jpeg",
+    "static/media/mapTwo.jpeg": "/static/media/mapTwo.69d763c1122a8f5ebb11.jpeg",
+    "static/media/mapOne.jpeg": "/static/media/mapOne.4e5756ece87936191302.jpeg",
+    "static/media/Oswald-Regular.ttf": "/static/media/Oswald-Regular.61b8c47b12a14193cc0e.ttf",
+    "static/media/profileStaticPicture.png": "/static/media/profileStaticPicture.16f19ee75884a7b2e49e.png",
+    "index.html": "/index.html",
+    "main.93c0d0de.css.map": "/static/css/main.93c0d0de.css.map",
+    "main.cab71237.js.map": "/static/js/main.cab71237.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93c0d0de.css",
+    "static/js/main.cab71237.js"
+  ]
+}
